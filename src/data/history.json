@@ -1,0 +1,32 @@
+[
+  {
+    "role": "Data Scientist & MLOPS engineer",
+    "organisation": "TESSI",
+    "startDate": "Aug 2022",
+    "endDate": "Present",
+    "experiences": ["Developed and deployed advanced NLP solutions using Transformers for text analytics and classification, enhancing data processing accuracy.","Implemented automated workflows for data collection and reporting, significantly improving operational efficiency."
+,"Mentored junior data scientists, promoting team growth and knowledge sharing."],
+    "imageSrc": "history/OACA.jpg"
+  },
+  {
+    "role": "Data Scientist ",
+    "organisation": "DNA GLOBAL ANALYTICS",
+    "startDate": "Jul 2021",
+    "endDate": "Jun 2022",
+    "experiences": ["Applied time series models for accurate sales forecasting, supporting strategic decision-making."
+,"Optimized data pipelines by automating workflows with Airflow and Kafka, increasing process efficiency."
+,"Created interactive dashboards to provide actionable insights from diverse data sources."],
+    "imageSrc": "history/OACA.jpg"
+  },
+  {
+    "role": "Data Scientist/AI Engineer",
+    "organisation": "HAVENSEN",
+    "startDate": "Fev 2020",
+    "endDate": "Jun 2021",
+    "experiences": ["Developed high-accuracy computer vision models for license plate detection and gesture recognition."
+,"Built an X-ray-based Covid-19 detection model with 98% accuracy, contributing to healthcare during the pandemic."
+,"Designed time series models for stock management in the furniture industry, improving inventory planning"],
+    "imageSrc": "history/OACA.jpg"
+  }
+  
+]

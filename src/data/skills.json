@@ -1,0 +1,43 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "JS",
+    "imageSrc": "skills/js.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "BI",
+    "imageSrc": "skills/bi.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "skills/py.png"
+  },
+  {
+    "title": "SQL",
+    "imageSrc": "skills/sql.png"
+  }
+  ,
+  {
+    "title": "PostgreSQL",
+    "imageSrc": "skills/pos.png"
+  },
+  {
+    "title": "JAVA",
+    "imageSrc": "skills/java.png"
+  }
+]

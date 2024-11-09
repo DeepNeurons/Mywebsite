@@ -1,0 +1,38 @@
+[
+  {
+      "title": "Machine Learning Pipeline Development and Automation",
+      "imageSrc": "projects/ml_pipeline.png",
+      "description": "Design and implement machine learning pipelines for efficient data processing, model training, and deployment.",
+      "skills": ["Python", "Scikit-Learn", "TensorFlow", "Pipeline Automation"]
+  },
+  {
+      "title": "Retrieval-Augmented Generation with Large Language Models",
+      "imageSrc": "projects/rag.jpg",
+      "description": "Develop and integrate Retrieval-Augmented Generation (RAG) techniques with large language models to improve information retrieval and response accuracy.",
+      "skills": ["LLMs", "RAG", "NLP", "Transformers"]
+  },
+  {
+      "title": "Enterprise ELK Stack Search Engine Development",
+      "imageSrc": "projects/elk.png",
+      "description": "Build and configure an ELK (Elasticsearch, Logstash, Kibana) stack for robust and efficient search engine solutions.",
+      "skills": ["Elasticsearch", "Logstash", "Kibana", "Search Optimization"]
+  },
+  {
+      "title": "Data Ingestion and Extraction Pipeline Engineering",
+      "imageSrc": "projects/cicd.png",
+      "description": "Develop scalable data ingestion and extraction pipelines to streamline data flow from multiple sources into storage and processing systems.",
+      "skills": ["ETL", "Data Extraction", "Data Ingestion", "Apache Kafka"]
+  },
+  {
+      "title": "Advanced Data Visualization Dashboards with Power BI and Python",
+      "imageSrc": "projects/bi.jpg",
+      "description": "Design and implement interactive dashboards using Power BI and Python visualization libraries for effective data representation and analysis.",
+      "skills": ["Power BI", "Plotly", "Matplotlib", "Data Visualization"]
+  },
+  {
+      "title": "Data Engineering and Cloud Infrastructure Management on GCP",
+      "imageSrc": "projects/gcp.jpg",
+      "description": "Develop and manage data engineering solutions on Google Cloud Platform, focusing on storage, processing, and analysis.",
+      "skills": ["GCP", "BigQuery", "Cloud Storage", "Data Engineering"]
+  }
+]
